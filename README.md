@@ -5,14 +5,14 @@ Analyzed the Stanford Open Policing Data to demonstrate various insights on peop
 <img src="pics/1.png" height=40% width=40%>
 
 ### Have drug-related stops increased over the years?
-<img src="pics/11.png" height=40% width=40%>
+<img src="pics/11.png" height=90% width=90%>
 
 ### What is the violation distribution in different districts?
-<img src="pics/2.png" height=40% width=40%>
+<img src="pics/2.png" height=90% width=90%>
 
 ### How long is one likely to be stopped for different kinds of violation?
-<img src="pics/3.png" height=40% width=40%>
+<img src="pics/3.png" height=90% width=90%>
 
 ### Relation between weather at the place of traffic violation and arrest
-<img src="pics/4.png" height=40% width=40%>
+<img src="pics/4.png" height=100% width=100%>
 
